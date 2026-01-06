@@ -1,3 +1,3 @@
 # Pullrequets_from_GitHub
 
-* Cambios dados desde el repositorio clonado
+* Cambios dados a partir del repositorio clonado y desde mi repositorio local.
